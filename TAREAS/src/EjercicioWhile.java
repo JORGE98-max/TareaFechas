@@ -10,9 +10,12 @@ public class EjercicioWhile {
 			
 		System.out.println(num);
 		num+=2;
+		if(num == 7)
+			num+=2;
+		
 		}
 	
-		System.out.println("9");
+		
 
 	}
 
